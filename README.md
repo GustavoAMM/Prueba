@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxzcWx8ZW58MHx8fHwxNjU2Mjc1MjQy&ixlib=rb-1.2.1&q=80
-coverY: 0
----
-
 # Views - Vistas
 
 **Las Vistas (Views) en MySQL son tablas virtuales.** Es decir, tablas que no guardan ningún dato propiamente dentro de ellas. Solo muestran los datos que están almacenados en otras tablas (que sí son reales).
